@@ -1,0 +1,5 @@
+To access the below dataset,please use the given ID & Password ! 
+
+URL : http://www.consortium.ri.cmu.edu/data/ck/
+ID : 76ed71e44323b653ff56a30205ed7ac5a337351e6ef0a6265c08fb5a09f6e9d5WXCn0h9guUyl9AoRTt6QEQ9dUlQ
+Password : aa6r2kEAkyKnU80dQrWfMu2/IA0
